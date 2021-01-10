@@ -1,2 +1,1 @@
-# Uber-Data-Analysis
-The data of uber ride in april 2019 is analysed and visualised with Pandas, Seaborn and Matplotlib python Library. The analyse mainly focused on extracting new column from the existing one and Day, Weekday, Longitude, Lattitude was the key column that has been analysed.
+The data of uber rides in April 2019 is analyzed and visualized with Pandas, Seaborn, and Matplotlib python Library. The analyze mainly focused on extracting new column from the existing one and Day, Weekday, Longitude, Lattitude was the key column that has been analyzed.
